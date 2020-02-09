@@ -18,11 +18,5 @@ Written by trainees, reviewed by FACEMs.
 
 
 
-fNotes is licenced under a Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/) licence. 
-
- 
-
-
-
-
+fNotes is licenced under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licence. 
 
