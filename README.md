@@ -6,6 +6,20 @@ Mapped to the Study Guide for the Domain of Medical Expertise.
 
 Written by trainees, reviewed by FACEMs.
 
+
+
+
+
+
+
+
+
+
+
+
+
+fNotes is licenced under a Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/) licence. 
+
  
 
 
