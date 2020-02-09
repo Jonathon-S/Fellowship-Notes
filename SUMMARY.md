@@ -1,6 +1,6 @@
 # Table of contents
 
-* [0. Info](README.md)
+* [fNotes](README.md)
 * [1. Resuscitation](1.-resuscitation/README.md)
   * [1.1 Airway](1.-resuscitation/1.1-airway.md)
   * [1.2 Airway Management](1.-resuscitation/1.2-airway-management.md)
