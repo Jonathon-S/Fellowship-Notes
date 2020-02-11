@@ -9,7 +9,7 @@
   * [1.5 Shock](1.-resuscitation/1.5-shock.md)
   * [1.6 Coma](1.-resuscitation/1.6-coma.md)
   * [1.7 Age-specific Differences](1.-resuscitation/1.7-age-specific-differences.md)
-* [2. Anaesthetics](2.-anaesthetics.md)
+* [2. Anaesthetics](2.-anaesthetics/README.md)
   * [2.1 General Anaesthetic Techniques](2.-anaesthetics/2.1-general-anaesthetic-techniques.md)
   * [2.2 Local Anaesthetic Techniques](2.-anaesthetics/2.2-local-anaesthetic-techniques.md)
   * [2.3 Pain Management](2.-anaesthetics/2.3-pain-management.md)
