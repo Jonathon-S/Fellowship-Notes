@@ -1,8 +1,8 @@
 # 2.2 Local Anaesthetic Techniques
 
-### a\)  Local anaesthetic pharmacology and toxicity
+a\)  Local anaesthetic pharmacology and toxicity
 
-### b\)  Regional nerve blocks
+b\)  Regional nerve blocks
 
         i\)  Digital
 
@@ -16,7 +16,7 @@
 
         vi\)  Foot
 
-### c\)  Intravenous regional anaesthesia
+c\)  Intravenous regional anaesthesia
 
-### d\)  Local anaesthetic adjuncts and alternatives
+d\)  Local anaesthetic adjuncts and alternatives
 

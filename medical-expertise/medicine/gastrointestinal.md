@@ -48,19 +48,29 @@ viii\)  Neoplastic disorders
 
 ### h\)  Irritable bowel syndrome
 
-1. i\)  Infectious disorders and gastroenteritis
-2. j\)  Hepatic disorders
+### i\)  Infectious disorders and gastroenteritis
 
-   1. i\)  Jaundice
-   2. ii\)  Interpretation of liver function tests
-   3. iii\)  Hepatic failure
-   4. iv\)  Hepatitis
-   5. v\)  Other infectious disorders of the liver
-   6. vi\)  Vascular disorders
-   7. vii\)  Liver transplant patient
-   8. viii\)  Alcoholic liver disease
-   9. ix\)  Hepato-renal syndrome
-   10. x\)  Portal hypertension
+### j\)  Hepatic disorders
 
-   k\) Abdominal paracentesis
+i\)  Jaundice
+
+ii\)  Interpretation of liver function tests
+
+iii\)  Hepatic failure
+
+iv\)  Hepatitis
+
+v\)  Other infectious disorders of the liver
+
+vi\)  Vascular disorders
+
+vii\)  Liver transplant patient
+
+viii\)  Alcoholic liver disease
+
+ix\)  Hepato-renal syndrome
+
+x\)  Portal hypertension
+
+### k\) Abdominal paracentesis
 

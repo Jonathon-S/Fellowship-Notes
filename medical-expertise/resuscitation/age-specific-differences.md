@@ -2,11 +2,11 @@
 
 Be able to describe the anatomical and physiological differences that might affect resuscitation in the following groups
 
-### a\) Neonatal
+a\) Neonatal
 
-### b\) Infant
+b\) Infant
 
-### c\) Paediatric
+c\) Paediatric
 
-### d\) Elderly
+d\) Elderly
 

@@ -1,14 +1,14 @@
 # 1.3 Life Support
 
-### a\)  Cardiac arrest
+a\)  Cardiac arrest
 
-### b\)  Basic life support
+b\)  Basic life support
 
-### c\)  ACLS drugs and algorithms
+c\)  ACLS drugs and algorithms
 
-### d\)  Defibrillation
+d\)  Defibrillation
 
-### e\)  Special arrest situations 
+e\)  Special arrest situations 
 
         i\) Paediatric
 
