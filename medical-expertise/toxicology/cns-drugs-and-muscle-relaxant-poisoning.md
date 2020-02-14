@@ -1,19 +1,24 @@
 # 7.8 CNS drugs and muscle relaxant poisoning
 
+### a\)  Alcohols
 
+### b\)  Anticonvulsants
 
-1. a\)  Alcohols
-2. b\)  Anticonvulsants
-3. c\)  GHB and related compounds
-4. d\)  Anti-Parkinsonian drugs
-5. e\)  Psychiatric drugs
-   1. i\)  Antipsychotic agents
-   2. ii\)  Antidepressants
-   3. iii\)  Lithium
+### c\)  GHB and related compounds
 
+### d\)  Anti-Parkinsonian drugs
 
+### e\)  Psychiatric drugs
 
-1. f\)  Hallucinogens D
-2. g\)  Sedatives, hypnotics, anxiolytics D
-3. h\)  Smooth muscle relaxants
+i\)  Antipsychotic agents
+
+ii\)  Antidepressants
+
+iii\)  Lithium
+
+### f\)  Hallucinogens
+
+### g\)  Sedatives, hypnotics, anxiolytics
+
+### h\)  Smooth muscle relaxants
 

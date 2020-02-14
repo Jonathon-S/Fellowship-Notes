@@ -1,28 +1,26 @@
 # 7.1 General principles
 
+### a\)  Prehospital care
 
+### b\)  Epidemiology and prevention of poisoning
 
-1. a\)  Prehospital care
-2. b\)  Epidemiology and prevention of poisoning
-3. c\) Management issues
+### c\) Management issues
 
-   1. i\)  Emesis
-   2. ii\)  Gastric lavage
-   3. iii\)  Activated charcoal
-   4. iv\)  Cathartics
-   5. v\)  Whole bowel irrigation
+i\)  Emesis
 
-   d\) Poison centres
+ii\)  Gastric lavage
 
-e\) Risk assessment/prediction of toxicity
+iii\)  Activated charcoal
+
+iv\)  Cathartics
+
+v\)  Whole bowel irrigation
+
+### d\) Poison centres
 
 Demonstrate knowledge of the role of poison centres in the management and prevention of poisoning
 
-Columns LO LP
+### e\) Risk assessment/prediction of toxicity
 
-M Ex M Ex M Ex M Ex M Ex
-
-M/S G
-
-M/S G DIS H f\) Toxidromes
+### f\) Toxidromes
 

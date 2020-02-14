@@ -1,8 +1,8 @@
 # 7.9 Cardiovascular
 
+### a\)  Antiarrhythmics
 
+### b\)  Anticoagulants
 
-1. a\)  Antiarrhythmics D
-2. b\)  Anticoagulants D
-3. c\)  Anti-hypertensives
+### c\)  Anti-hypertensives
 

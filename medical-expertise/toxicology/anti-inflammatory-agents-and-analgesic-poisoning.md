@@ -1,10 +1,12 @@
 # 7.5 Anti-inflammatory agents and analgesic poisoning
 
+### a\)  Paracetamol
 
+### b\)  NSAIDs
 
-1. a\)  Paracetamol
-2. b\)  NSAIDs
-3. c\)  Salicylates
-4. d\)  Gout drugs
-5. e\)  Opioids
+### c\)  Salicylates
+
+### d\)  Gout drugs
+
+### e\)  Opioids
 

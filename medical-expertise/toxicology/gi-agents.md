@@ -1,8 +1,8 @@
 # 7.11 GI agents
 
+### a\)  Antacids
 
+### b\)  Antidiarrhoeals
 
-1. a\)  Antacids D
-2. b\)  Antidiarrhoeals D
-3. c\)  Laxatives D
+### c\)  Laxatives
 

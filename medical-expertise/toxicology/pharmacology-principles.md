@@ -1,12 +1,14 @@
 # 7.14 Pharmacology principles
 
+### a\)  Techniques for drug removal
 
+### b\)  Drug delivery vehicles/diluents
 
-1. a\)  Techniques for drug removal
-2. b\)  Drug delivery vehicles/diluents
-3. c\)  Drug interactions
-4. d\)  Adverse drug reactions
-5. e\)  Pharmacokinetics
+### c\)  Drug interactions
 
-   Demonstrate knowledge of pharmacokinetic principles, including drug absorption, distribution, metabolism and clearance
+### d\)  Adverse drug reactions
+
+### e\)  Pharmacokinetics
+
+Demonstrate knowledge of pharmacokinetic principles, including drug absorption, distribution, metabolism and clearance
 

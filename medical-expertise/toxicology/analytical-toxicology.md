@@ -1,6 +1,6 @@
 # 7.2 Analytical toxicology
 
-a\) Principles 
+### a\) Principles 
 
-b\) Drug testing and screening
+### b\) Drug testing and screening
 

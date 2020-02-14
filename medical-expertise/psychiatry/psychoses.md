@@ -1,10 +1,12 @@
 # 6.7 Psychoses
 
+### a\)  Acute and chronic
 
+### b\)  Bipolar effective disorder
 
-1. a\)  Acute and chronic
-2. b\)  Bipolar effective disorder
-3. c\)  Schizophrenia
-4. d\)  Mania and hypomania
-5. e\)  Other
+### c\)  Schizophrenia
+
+### d\)  Mania and hypomania
+
+### e\)  Other
 

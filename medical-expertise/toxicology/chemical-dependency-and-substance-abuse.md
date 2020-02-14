@@ -1,9 +1,10 @@
 # 7.3 Chemical dependency and substance abuse
 
+### a\)  Drug abuse
 
+### b\)  Drug dependence
 
-1. a\)  Drug abuse
-2. b\)  Drug dependence
-3. c\)  Drug withdrawal
-4. d\)  Tolerance
+### c\)  Drug withdrawal
+
+### d\)  Tolerance
 
