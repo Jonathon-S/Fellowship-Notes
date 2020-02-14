@@ -1,8 +1,8 @@
 # 8.1 Heat
 
+### a\)  Heat stroke
 
+### b\)  Heat stress/exhaustion
 
-1. a\)  Heat stroke
-2. b\)  Heat stress/exhaustion
-3. c\)  Drug related hyperthermia
+### c\)  Drug related hyperthermia
 

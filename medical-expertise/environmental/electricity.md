@@ -1,7 +1,6 @@
 # 8.5 Electricity
 
+### a\)  Electric shock
 
-
-1. a\)  Electric shock
-2. b\)  Lightning strike
+### b\)  Lightning strike
 

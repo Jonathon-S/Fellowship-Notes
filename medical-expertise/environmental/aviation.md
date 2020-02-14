@@ -1,8 +1,8 @@
 # 8.6 Aviation
 
+### a\)  Acute mountain sickness
 
+### b\)  High altitude cerebral oedema
 
-1. a\)  Acute mountain sickness
-2. b\)  High altitude cerebral oedema
-3. c\)  High altitude pulmonary oedema
+### c\)  High altitude pulmonary oedema
 
