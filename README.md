@@ -1,4 +1,4 @@
-# 0. About
+# About
 
 Free open access collaborative notes for the ACEM Fellowship Exam. 
 
@@ -18,5 +18,5 @@ Written by trainees, reviewed by FACEMs.
 
 
 
-fNotes is licenced under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licence. 
+FellowshipNotes.com is licenced under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licence. 
 
