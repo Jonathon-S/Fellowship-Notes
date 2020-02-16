@@ -2,8 +2,6 @@
 
 ### a\)  Clinical examination of the cardiovascular system
 
-type things under here. 
-
 ### b\)  Interpretation of symptoms and clinical signs of the cardiovascular system
 
 ### c\)  Acute coronary syndromes \(ACS\)
