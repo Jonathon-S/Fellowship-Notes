@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About](README.md)
+* [Chat](https://t.me/fellowshipnotes)
 
 ## Medical Expertise
 
