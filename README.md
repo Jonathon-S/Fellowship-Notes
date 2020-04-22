@@ -18,5 +18,5 @@ Written by trainees.
 
 
 
-FellowshipNotes.com is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licence. 
+FellowshipNotes.org is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licence. 
 
