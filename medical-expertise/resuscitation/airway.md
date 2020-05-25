@@ -132,6 +132,60 @@ A forced to act imperative permits RSI, even in a highly diffi- cult airway situ
 
 RSI is the cornerstone of modern emergency airway management and is defined as the nearly simultaneous administration of a potent sedative \(induction\) agent and NMBA, usually succinyl- choline or rocuronium, for the purpose of tracheal intubation. This approach provides optimal intubating conditions and has long been thought to minimize the risk of aspiration of gastric contents. A systematic review of the literature in 2007 failed to prove that RSI results in a lower incidence of aspiration than other techniques, but the authors correctly noted that virtually no studies have ever been designed to measure this precise endpoint.
 
+The central concept of RSI is to take the patient from the start-ing point \(eg, conscious, breathing spontaneously\) to a state of unconsciousness with complete neuromuscular paralysis, and then to achieve intubation without interposed assisted ventilation.
+
+The risk of aspiration of gastric contents is thought to be signifi- cantly higher for patients who have not fasted before induction. Application of positive-pressure ventilation can cause air to pass into the stomach, resulting in gastric distention and likely increas- ing the risk of regurgitation and aspiration.
+
+The purpose of RSI is to avoid positive-pressure ventilation until the ETT is placed correctly in the trachea, with the cuff inflated.
+
+The Seven Ps of Rapid Sequence Intubation 1. Preparation 2. Preoxygenation 3. Pretreatment 4. Paralysis with induction 5. Positioning 6. Placement of tube 7. Postintubation management
+
+Preoxygenation. Administration of 100% oxygen for 3 minutes of normal tidal volume breathing in a normal healthy adult establishes an adequate oxygen reservoir to permit 6 to 8 minutes of safe apnea before oxygen desaturation to less than 90%
+
+The time to desaturation to less than 90% in children, obese adults, late-term pregnant women, and patients who are acutely ill or injured is considerably shorter.
+
+precipitous decline of oxygen saturation from 90% to 0% for all groups
+
+f time is insufficient for a full 3-minute preoxygenation phase, eight vital capacity breaths with high-flow oxygen can achieve oxygen saturations and apnea times that match or exceed those obtained with traditional preoxygenation. Desaturation time in obese patients can be pro- longed by preoxygenating with the patient in a head-up position and by continuing supplemental oxygen \(via nasal cannula at a flow rate of 5–15 L/min\) after motor paralysis and during laryngoscopy until the ETT is successfully placed.
+
+In obese patients, it extends the time to desaturation to 95% from 3.5 to 5.3 minutes.17,18
+
+This so-called apneic oxygenation takes advantage of a physio-logic principle termed aventilatory mass flow.
+
+Pretreatment Agents for Rapid Sequence Intubationa Reactive airway disease: Albuterol, 2.5 mg, by nebulizer. If time does not permit albuterol nebulizer, give lidocaine 1.5 mg/kg IV \(controversial\). Cardiovascular disease: Fentanyl, 3 μg/kg, to mitigate sympathetic discharge Elevated ICP: Fentanyl, 3 μg/kg, to mitigate sympathetic discharge and attendant rise in ICP
+
+routine use of atropine for intubation of small children, have largely been abandoned.
+
+Intubation is intensely stimulating and results in a sympathetic discharge, or reflex sympathetic response to laryngoscopy \(RSRL\). In patients suffering from a hypertensive emergency, sympatholy- sis with fentanyl \(3 mcg/kg IV\) administered 3 minutes before RSI can optimize the patient’s hemodynamics by attenuating spikes in blood pressure and shear forces, both of which are considered undesirable in patients with elevations of intracranial pressure \(ICP\), aortic disease, acute coronary syndromes and neurovascu- lar emergencies.
+
+Paralysis With Induction. In this phase, a potent sedative agent is administered by rapid intravenous \(IV\) push in a dose capable of producing unconsciousness rapidly. This is immedi- ately followed by rapid administration of an intubating dose of an NMBA, either succinylcholine at a dose of 1.5 mg/kg IV or rocuronium, 1 mg/kg. It is usual to wait 45 seconds from when the succinylcholine is given and 60 seconds from when rocuronium is given to allow sufficient paralysis to occur. The results from two large meta-analyses have revealed that intubating conditions pro- vided by each drug are equivalent as long as rocuronium is dosed between 1.0 and 1.2 mg/kg IV.
+
+positioning involves head extension, often with flexion of the neck on the body.
+
+Sellick maneuver—application of firm, backward pressure over the cricoid cartilage with the goal of obstructing the cervical esophagus and reducing the risk of aspiration—had long been recommended to minimize the risk of passive regurgitation and hence aspiration, but is no longer recommended.
+
+BMV should not be initiated unless the oxygen saturation falls to 90%.
+
+Placement Approximately 45 to 60 seconds after administration of the NMBA, the patient is relaxed sufficiently to permit laryngoscopy. This is assessed most easily by moving the mandible to test for mobility and absence of muscle tone.
+
+Postintubation Management. After confirmation of tube placement by ETco2, obtain a chest radiograph to confirm that mainstem intubation has not occurred and to assess the lungs. If available, place the patient on continuous capnography. In general, long-acting NMBAs \(eg, pancuronium, vecuronium\) are avoided; the focus is on optimal management using opioid analgesics and sedative agents to facilitate mechanical ventilation. An adequate dose of a benzodiazepine \(eg, midazolam, 0.1–0.2 mg/kg IV\) and opioid analgesic \(eg, fentanyl, 3–5 μg/kg IV, or morphine, 0.2–0.3 mg/kg IV\) is given to improve patient comfort and decrease sympathetic response to the ETT. Propofol infusion \(5–50 μg/kg/min IV\) with supplemental analgesia is an effective method for managing intubated patients who do not have hypo- tension or ongoing bleeding and is especially helpful for manage- ment of neurologic emergencies because its clinical duration of action is very short \(&lt;5 minutes\), allowing frequent neurologic examinations.
+
+An NMBA is added only if appropriate use of sedation and analgesia fail to control the patient adequately or when ventilation is challenging because of by muscular activity.
+
+Delayed sequence intubation \(DSI\) is a new technique proposed to maximize preoxygenation in preparation for intubation. \[20\]
+
+tation, delirium, and confusion can make attempts at preoxygen- ation challenging, if not impossible, when a patient is unable to comply with conventional modes of supplemental oxygenation, such as a face mask or BL-PAP. DSI considers preoxygenation a procedure and uses dissociative doses of ketamine \(1.0 mg/kg IV\) as procedural sedation to accomplish this. A small, ED- and ICU- based multicenter observational study showed post-DSI oxygen saturations significantly higher than pre-DSI levels.
+
+Blind Nasotracheal Intubation Historically, blind nasotracheal intubation \(BNTI\) was used extensively in the ED and out-of-hospital setting, but it has fallen out of favor largely because of the superiority of RSI. Prehospital intubation success between RSI and BNTI favors RSI, and ED. In the ED, BNTI rarely, if ever, should be used and is reserved for patients in whom the presence of a narrowly defined type of difficult airway makes RSI undesirable or contraindicated \(???\)
+
+Awake oral intubation is a technique in which sedative and topical anesthetic agents are administered to permit management of a difficult airway without neuromuscular blockade. opical anesthesia may be achieved by spray, nebulization, or local anesthetic nerve block. ketamine, which provides dissociative anesthesia, analgesia, maintenance of protective airway reflexes, and minimal respiratory depression, is often the best choice
+
+After the patient is sedated, and topical anesthesia has been achieved, gentle direct videolaryngoscopy or flexible endoscopic laryngoscopy is performed to determine whether the glottis is visible and intubation possible. If the glottis is visible, the patient may be intubated during initial laryngoscopy, or the operator, confident that the glottis can be visualized, may opt to perform RSI to benefit from pretreatment, induction, and paralysis, as might be the case in a head-injured patient.
+
+Oral Intubation Without Pharmacologic Agents The arrested or near death patient may not require pharmacologic agents for intubation, but even an arrested patient may retain sufficient muscle tone to render intubation difficult. If the glottis is not adequately visualized, administration of a single dose of succinylcholine alone may facilitate laryngoscopy
+
+This does not apply to patients who are unconscious from neurologic catastrophe or trauma and those who have overdosed or have other medical causes of coma who warrant an induction agent and are intubated with standard RSI procedures \(see earlier\).
+
 ### e\)  Alternative/different airway techniques
 
            i\)  laryngeal mask  
