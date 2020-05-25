@@ -1,24 +1,24 @@
 # 1.2 Airway Management
 
-### a\) Elective intubation
+## a\) Elective intubation
 
-### b\)  Confirming endotracheal tube position
+## b\)  Confirming endotracheal tube position
 
-### c\)  Laryngeal mask airway
+## c\)  Laryngeal mask airway
 
-### d\)  Capnography
+## d\)  Capnography
 
-### e\)  Pulse oximetry
+## e\)  Pulse oximetry
 
-### f\)  Extubation
+## f\)  Extubation
 
-### g\) Ventilators
+## g\) Ventilators
 
-        i\) Used in EDs
+###         i\) Used in EDs
 
-        ii\) Other
+###         ii\) Other
 
-### h\) Non-invasive ventilation 
+## h\) Non-invasive ventilation 
 
 
 

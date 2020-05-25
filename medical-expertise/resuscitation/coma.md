@@ -1,6 +1,6 @@
 # 1.6 Coma
 
-### a\)  Care of the comatose patient
+## a\)  Care of the comatose patient
 
-### b\)  Brain death
+## b\)  Brain death
 

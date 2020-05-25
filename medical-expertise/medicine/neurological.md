@@ -1,54 +1,54 @@
 # 3.4 Neurological
 
-### a\)  Clinical examination of the neurological system
+## a\)  Clinical examination of the neurological system
 
-### b\)  Interpretation of symptoms and clinical signs of the neurological system
+## b\)  Interpretation of symptoms and clinical signs of the neurological system
 
-### c\)  Disorders of the cranial nerves
+## c\)  Disorders of the cranial nerves
 
-i\) Facial nerve paralysis 
+### i\) Facial nerve paralysis 
 
-ii\) Other
+### ii\) Other
 
-### d\)  Headache and facial pain
+## d\)  Headache and facial pain
 
-i\)  Pharmacological agents
+### i\)  Pharmacological agents
 
-ii\)  Indications for imaging \(CT, MRI\)
+### ii\)  Indications for imaging \(CT, MRI\)
 
-iii\)  Migraine
+### iii\)  Migraine
 
-iv\)  Cluster headache
+### iv\)  Cluster headache
 
-v\)  Tension headache
+### v\)  Tension headache
 
-vi\)  Raised intracranial pressure
+### vi\)  Raised intracranial pressure
 
-vii\)  Temporal arteritis
+### vii\)  Temporal arteritis
 
-viii\)  Neuralgia
+### viii\)  Neuralgia
 
-ix\)  TMJ syndrome
+### ix\)  TMJ syndrome
 
-### e\)  Cerebrovascular accident \(CVA\)
+## e\)  Cerebrovascular accident \(CVA\)
 
-i\)  Transient ischaemic attacks
+### i\)  Transient ischaemic attacks
 
-ii\)  RINDS
+### ii\)  RINDS
 
-iii\)  Thrombotic CVA
+### iii\)  Thrombotic CVA
 
-iv\)  Embolic CVA
+### iv\)  Embolic CVA
 
-v\)  Haemorrhagic CVA
+### v\)  Haemorrhagic CVA
 
-vi\)  Cerebellar CVA
+### vi\)  Cerebellar CVA
 
-vii\)  Thombolysis in CVA
+### vii\)  Thombolysis in CVA
 
-viii\)  CVA and hypertension
+### viii\)  CVA and hypertension
 
-ix\)  Syndromes of CVA
+### ix\)  Syndromes of CVA
 
 1. Anterior cerebral artery
 2. Middle cerebral artery
@@ -56,81 +56,81 @@ ix\)  Syndromes of CVA
 4. Lacunar syndrome
 5. Midbrain, pontine and brainstem syndromes
 
-x\)  Stroke units
+### x\)  Stroke units
 
-### f\)  Altered mental state
+## f\)  Altered mental state
 
-i\)  Coma
+### i\)  Coma
 
-ii\)  Acute brain syndrome
+### ii\)  Acute brain syndrome
 
-iii\)  Dementia
+### iii\)  Dementia
 
-iv\)  Memory disorders
+### iv\)  Memory disorders
 
-### g\)  Approach to ataxia and gait disturbances
+## g\)  Approach to ataxia and gait disturbances
 
-### h\)  Seizures
+## h\)  Seizures
 
-### i\)  Status epilepticus
+## i\)  Status epilepticus
 
-### j\)  Dystonic reactions
+## j\)  Dystonic reactions
 
-### k\)  Lumbar puncture
+## k\)  Lumbar puncture
 
-### l\) Interpretation of CSF fluid biochemistry, cell count and microbiology
+## l\) Interpretation of CSF fluid biochemistry, cell count and microbiology
 
-### m\)  Infectious disorders of the CNS and PNS
+## m\)  Infectious disorders of the CNS and PNS
 
-i\)  Meningitis
+### i\)  Meningitis
 
-ii\)  Encephalitis
+### ii\)  Encephalitis
 
-iii\)  Abscess
+### iii\)  Abscess
 
-iv\)  Tuberculosis
+### iv\)  Tuberculosis
 
-v\)  Toxoplasmosis
+### v\)  Toxoplasmosis
 
-vi\)  Cryptococcal infection
+### vi\)  Cryptococcal infection
 
-vii\)  HIV
+### vii\)  HIV
 
-### n\)  Guillain-Barré syndrome
+## n\)  Guillain-Barré syndrome
 
-### o\)  Multiple sclerosis
+## o\)  Multiple sclerosis
 
-### p\)  Myasthenia gravis & Eaton-Lambert syndrome
+## p\)  Myasthenia gravis & Eaton-Lambert syndrome
 
-### q\)  Botulism
+## q\)  Botulism
 
-### r\)  Diphtheria
+## r\)  Diphtheria
 
-### s\)  Tetanus
+## s\)  Tetanus
 
-### t\)  Motor neurone disease
+## t\)  Motor neurone disease
 
-### u\)  Peripheral neuropathy
+## u\)  Peripheral neuropathy
 
-### v\)  Disorders of the peripheral nervous system
+## v\)  Disorders of the peripheral nervous system
 
-i\)  Peripheral nerve lesions
+### i\)  Peripheral nerve lesions
 
-ii\)  Brachial plexus syndrome
+### ii\)  Brachial plexus syndrome
 
-### w\)  Myopathy
+## w\)  Myopathy
 
-### x\)  Periodic paralysis
+## x\)  Periodic paralysis
 
-### y\)  Parkinson’s disease
+## y\)  Parkinson’s disease
 
-### z\)  Hydrocephalus
+## z\)  Hydrocephalus
 
-### aa\)  Complications of the central nervous system devices
+## aa\)  Complications of the central nervous system devices
 
-### ab\)  Disorders of the spinal cord
+## ab\)  Disorders of the spinal cord
 
-### ac\)  Medical problems in the spinally-injured patient
+## ac\)  Medical problems in the spinally-injured patient
 
-### ad\)  Paraneoplastic disorders of the CNS and PNS
+## ad\)  Paraneoplastic disorders of the CNS and PNS
 

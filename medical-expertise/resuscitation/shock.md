@@ -1,42 +1,42 @@
 # 1.5 Shock
 
-### a\) Intravenous fluid composition and therapy
+## a\) Intravenous fluid composition and therapy
 
-        i\) High volume intravenous infusion techniques 
+###         i\) High volume intravenous infusion techniques 
 
-        ii\) Autotransfusion
+###         ii\) Autotransfusion
 
-### b\)  Peripheral venous access
+## b\)  Peripheral venous access
 
-        i\)  Accessing indwelling vascular devices
+###         i\)  Accessing indwelling vascular devices
 
-        ii\)  Vascular access techniques in infants & children
+###         ii\)  Vascular access techniques in infants & children
 
-### c\)  Central venous access 
+## c\)  Central venous access 
 
-        i\) Subclavian
+###         i\) Subclavian
 
-        ii\) Internal jugular 
+###         ii\) Internal jugular 
 
-        iii\) Femoral
+###         iii\) Femoral
 
-        iv\) Cubital
+###         iv\) Cubital
 
-### d\)  Central venous pressure measurement
+## d\)  Central venous pressure measurement
 
-### e\)  Alternative venous access 
+## e\)  Alternative venous access 
 
-        i\) Intraosseus
+###         i\) Intraosseus
 
-       ii\) Peripheral venous cutdown
+###        ii\) Peripheral venous cutdown
 
-### f\)  Inotropes
+## f\)  Inotropes
 
-### g\)  Pressors
+## g\)  Pressors
 
-### h\)  Arterial puncture and cannulation
+## h\)  Arterial puncture and cannulation
 
-### i\)  Endotracheal drug delivery
+## i\)  Endotracheal drug delivery
 
-### j\)  MAST suit
+## j\)  MAST suit
 

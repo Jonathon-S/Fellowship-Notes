@@ -1,22 +1,22 @@
 # 2.2 Local Anaesthetic Techniques
 
-### a\)  Local anaesthetic pharmacology and toxicity
+## a\)  Local anaesthetic pharmacology and toxicity
 
-### b\)  Regional nerve blocks
+## b\)  Regional nerve blocks
 
-        i\)  Digital
+###         i\)  Digital
 
-        ii\)  Wrist
+###         ii\)  Wrist
 
-        iii\)  Brachial plexus
+###         iii\)  Brachial plexus
 
-        iv\)  Femoral
+###         iv\)  Femoral
 
-        v\)  Facial
+###         v\)  Facial
 
-        vi\)  Foot
+###         vi\)  Foot
 
-### c\)  Intravenous regional anaesthesia
+## c\)  Intravenous regional anaesthesia
 
-### d\)  Local anaesthetic adjuncts and alternatives
+## d\)  Local anaesthetic adjuncts and alternatives
 

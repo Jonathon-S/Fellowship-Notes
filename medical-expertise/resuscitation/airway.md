@@ -1,12 +1,12 @@
 # 1.1 Airway
 
-### a\)  Basic airway maintenance techniques
+## a\)  Basic airway maintenance techniques
 
 If a patient is unable to maintain a patent airway, the airway should be established by using airway maneuvers such as repositioning, chin lift, jaw thrust, or insertion of an oral or nasal airway.
 
-### b\)  Oxygen delivery systems
+## b\)  Oxygen delivery systems
 
-### c\)  Bag mask ventilation
+## c\)  Bag mask ventilation
 
 Bag-mask ventilation \(BMV\) is difficult in approximately 1 in 50 general anesthesia patients and impossible in approximately 1 in 600. BMV is difficult, however, in up to one-third of patients in whom intubation failure occurs, and difficult BMV makes the likelihood of difficult intubation four times higher and the likelihood of impossible intubation 12 times higher.
 
@@ -22,7 +22,7 @@ Stiffness \(resistance to ventilation\(eg, asthma, COPD, pulmonary edema, restri
 
 impossible BMV is exceptionally rare \(0.2%\) and is associated with neckchanges secondary to radiation therapy, presence of a beard, male gender, history of sleep apnea, and Mallampati class III or IV
 
-### d\)  Intubation and rapid sequence induction
+## d\)  Intubation and rapid sequence induction
 
 Reasons to Intubate   
     1. Failure to maintain or protect the airway  
@@ -186,12 +186,12 @@ Oral Intubation Without Pharmacologic Agents The arrested or near death patient 
 
 This does not apply to patients who are unconscious from neurologic catastrophe or trauma and those who have overdosed or have other medical causes of coma who warrant an induction agent and are intubated with standard RSI procedures \(see earlier\).
 
-### e\)  Alternative/different airway techniques
+## e\)  Alternative/different airway techniques
 
            i\)  laryngeal mask  
            ii\) other
 
-### f\)  Needle/surgical cricothyroidotomy
+## f\)  Needle/surgical cricothyroidotomy
 
 Although early ED-based observational registries reported cricothyrotomy rates of about 1% for all intubations, more recent studies have shown a lower rate, less than 0.5%.
 
@@ -201,9 +201,9 @@ SMART Mnemonic for Evaluation of Difficult Cricothyrotomy Surgery Mass \(abscess
 
 If adequate oxygenation cannot be maintained with rescue BMV, the rescue technique of first resort is cricothyrotomy. If an alternative device \(ie, an EGD such as an LMA or Combitube\) is readily available, however, and the operator judges it to be an appropriate device for the patient’s anatomy, single attempt can be made to use it simultaneously with preparations for immediate cricothyrotomy as long as initiation of cricothyrotomy is not delayed.
 
-### g\)  Tracheostomy
+## g\)  Tracheostomy
 
-### h\)  Tracheal suctioning
+## h\)  Tracheal suctioning
 
 
 

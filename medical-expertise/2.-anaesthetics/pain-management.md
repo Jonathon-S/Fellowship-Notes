@@ -1,14 +1,14 @@
 # 2.3 Pain Management
 
-### a\)  Acute pain management 
+## a\)  Acute pain management 
 
-        i\)  Drugs
+###         i\)  Drugs
 
-       ii\)  Methods of delivery
+###        ii\)  Methods of delivery
 
-       iii\)  Adjucts
+###        iii\)  Adjucts
 
-### b\)  Chronic pain management 
+## b\)  Chronic pain management 
 
-### c\)  Pain scores
+## c\)  Pain scores
 

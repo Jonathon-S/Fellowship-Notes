@@ -1,74 +1,74 @@
 # 3.3 Gastrointestinal
 
-### a\)  Clinical examination of the gastrointestinal system
+## a\)  Clinical examination of the gastrointestinal system
 
-### b\)  Interpretation of the symptoms and clinical signs of the gastrointestinal system
+## b\)  Interpretation of the symptoms and clinical signs of the gastrointestinal system
 
-### c\)  Gastrointestinal bleeding
+## c\)  Gastrointestinal bleeding
 
-i\)  Indications for urgent gastroscopy
+### i\)  Indications for urgent gastroscopy
 
-ii\)  Techniques used with gastroscopy to control haemorrhage
+### ii\)  Techniques used with gastroscopy to control haemorrhage
 
-iii\)  Pharmacological agents used in management toxicological agents
+### iii\)  Pharmacological agents used in management toxicological agents
 
-iv\)  Oesophageal varices
+### iv\)  Oesophageal varices
 
-v\)  Balloon tamponade of gastro-oesophageal varices
+### v\)  Balloon tamponade of gastro-oesophageal varices
 
-vi\)  Peptic ulceration
+### vi\)  Peptic ulceration
 
-vii\)  Angiodysplasia of the colon
+### vii\)  Angiodysplasia of the colon
 
-### d\)  Oesophageal disorders
+## d\)  Oesophageal disorders
 
-i\)  Infectious disorders
+### i\)  Infectious disorders
 
-ii\)  Oesophagitis
+### ii\)  Oesophagitis
 
-iii\)  Gastroesophageal reflux
+### iii\)  Gastroesophageal reflux
 
-iv\)  Motor abnormalities
+### iv\)  Motor abnormalities
 
-v\)  Mallory-Weiss syndrome
+### v\)  Mallory-Weiss syndrome
 
-vi\)  Stricture and stenosis
+### vi\)  Stricture and stenosis
 
-vii\)  Tracheo-oesophageal fistula
+### vii\)  Tracheo-oesophageal fistula
 
-viii\)  Neoplastic disorders
+### viii\)  Neoplastic disorders
 
-### e\)  Peptic ulcer disease and gastritis
+## e\)  Peptic ulcer disease and gastritis
 
-### f\)  Feeding tube management
+## f\)  Feeding tube management
 
-### g\)  Inflammatory bowel disease
+## g\)  Inflammatory bowel disease
 
-### h\)  Irritable bowel syndrome
+## h\)  Irritable bowel syndrome
 
-### i\)  Infectious disorders and gastroenteritis
+## i\)  Infectious disorders and gastroenteritis
 
-### j\)  Hepatic disorders
+## j\)  Hepatic disorders
 
-i\)  Jaundice
+### i\)  Jaundice
 
-ii\)  Interpretation of liver function tests
+### ii\)  Interpretation of liver function tests
 
-iii\)  Hepatic failure
+### iii\)  Hepatic failure
 
-iv\)  Hepatitis
+### iv\)  Hepatitis
 
-v\)  Other infectious disorders of the liver
+### v\)  Other infectious disorders of the liver
 
-vi\)  Vascular disorders
+### vi\)  Vascular disorders
 
-vii\)  Liver transplant patient
+### vii\)  Liver transplant patient
 
-viii\)  Alcoholic liver disease
+### viii\)  Alcoholic liver disease
 
-ix\)  Hepato-renal syndrome
+### ix\)  Hepato-renal syndrome
 
-x\)  Portal hypertension
+### x\)  Portal hypertension
 
-### k\) Abdominal paracentesis
+## k\) Abdominal paracentesis
 

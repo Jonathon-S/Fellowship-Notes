@@ -1,174 +1,174 @@
 # 3.1 Cardiovascular
 
-### a\)  Clinical examination of the cardiovascular system
+## a\)  Clinical examination of the cardiovascular system
 
-### b\)  Interpretation of symptoms and clinical signs of the cardiovascular system
+## b\)  Interpretation of symptoms and clinical signs of the cardiovascular system
 
-### c\)  Acute coronary syndromes \(ACS\)
+## c\)  Acute coronary syndromes \(ACS\)
 
-i\)  Approach to the patient with chest pain
+### i\)  Approach to the patient with chest pain
 
-ii\)  Prehospital management
+### ii\)  Prehospital management
 
-iii\)  Low-risk chest pain
+### iii\)  Low-risk chest pain
 
-iv\)  Stable angina
+### iv\)  Stable angina
 
-v\)  Unstable angina
+### v\)  Unstable angina
 
-vi\)  Myocardial infarction
+### vi\)  Myocardial infarction
 
-vii\)  Right ventricular myocardial infarction
+### vii\)  Right ventricular myocardial infarction
 
-viii\)  Thrombolysis in myocardial infarction
+### viii\)  Thrombolysis in myocardial infarction
 
-ix\)  Left ventricular failure and cardiogenic shock in the setting of myocardial infarction
+### ix\)  Left ventricular failure and cardiogenic shock in the setting of myocardial infarction
 
-x\)  Interventional cardiology in acute coronary syndromes
+### x\)  Interventional cardiology in acute coronary syndromes
 
-xi\)  Pharmacological agents used in acute coronary syndromes
+### xi\)  Pharmacological agents used in acute coronary syndromes
 
-xii\)  Interpreting the ECG in the setting of acute coronary syndromes
+### xii\)  Interpreting the ECG in the setting of acute coronary syndromes
 
-xiii\)  ST elevation in the absence of myocardial infarction
+### xiii\)  ST elevation in the absence of myocardial infarction
 
-xiv\)  An understanding of the major trials in acute coronary syndromes
+### xiv\)  An understanding of the major trials in acute coronary syndromes
 
-xv\)  Current research in ACS
+### xv\)  Current research in ACS
 
-xvi\)  Chest pain pathways
+### xvi\)  Chest pain pathways
 
-xvii\)  Chest pain units
+### xvii\)  Chest pain units
 
-### d\)  Syncope
+## d\)  Syncope
 
-i\)  Differential diagnosis
+### i\)  Differential diagnosis
 
-ii\)  Identification of at-risk groups
+### ii\)  Identification of at-risk groups
 
-iii\)  Management and disposition
+### iii\)  Management and disposition
 
-### e\)  Congestive cardiac failure
+## e\)  Congestive cardiac failure
 
-### f\)  Valvular disorders
+## f\)  Valvular disorders
 
-i\)  Aortic
+### i\)  Aortic
 
-ii\)  Mitral
+### ii\)  Mitral
 
-iii\)  Tricuspid
+### iii\)  Tricuspid
 
-iv\)  Pulmonary
+### iv\)  Pulmonary
 
 Conditions that are associated with valvular disorders
 
-### g\) Disorders of the myocardium
+## g\) Disorders of the myocardium
 
-i\)  Cardiomyopathy
+### i\)  Cardiomyopathy
 
-ii\)  Aneurysm
+### ii\)  Aneurysm
 
-iii\)  Atrial septal defect
+### iii\)  Atrial septal defect
 
-iv\)  Ventricular septal defect
+### iv\)  Ventricular septal defect
 
-v\)  Dextrocardia
+## v\)  Dextrocardia
 
-### h\)  Disorders of the pericardium
+## h\)  Disorders of the pericardium
 
-### i\)  Acute pericarditis
+## i\)  Acute pericarditis
 
-ii\)  Constrictive pericarditis
+### ii\)  Constrictive pericarditis
 
-iii\)  Pericardial effusion
+### iii\)  Pericardial effusion
 
-iv\)  Pericardial tamponade
+### iv\)  Pericardial tamponade
 
-v\)  Pericardiocentesis
+### v\)  Pericardiocentesis
 
-i\)  Cardiogenic shock
+### i\)  Cardiogenic shock
 
-### j\)  Hypertension
+## j\)  Hypertension
 
-i\)  Urgencies
+### i\)  Urgencies
 
-ii\)  Emergencies
+### ii\)  Emergencies
 
-iii\)  Pharmacological agents used to treat hypertension
+### iii\)  Pharmacological agents used to treat hypertension
 
-### k\)  Disturbances of cardiac rhythm
+## k\)  Disturbances of cardiac rhythm
 
-i\)  Mechanisms of arrhythmias
+### i\)  Mechanisms of arrhythmias
 
-ii\)  Bradycardias
+### ii\)  Bradycardias
 
-sinus bradycardia
+#### sinus bradycardia
 
-heart block
+#### heart block
 
-other bradycardias
+#### other bradycardias
 
-iii\)  Tachycardias
+### iii\)  Tachycardias
 
-narrow complex regular
+#### narrow complex regular
 
-narrow complex irregular
+#### narrow complex irregular
 
-wide complex regular
+#### wide complex regular
 
-wide complex irregular
+#### wide complex irregular
 
-torsade des pointes
+#### torsade des pointes
 
-ventricular fibrillation
+#### ventricular fibrillation
 
-iv\)  Ectopy
+### iv\)  Ectopy
 
-narrow complex
+#### narrow complex
 
-wide complex
+#### wide complex
 
-v\)  Accessory pathways
+### v\)  Accessory pathways
 
-Wolff-Parkinson-White syndrome
+#### Wolff-Parkinson-White syndrome
 
-ii. other
+#### other
 
-vi\)  Electrophysiological testing
+### vi\)  Electrophysiological testing
 
-vii\)  Drugs associated with cardiac arrhythmias
+### vii\)  Drugs associated with cardiac arrhythmias
 
-viii\)  Pharmacological agents used to treat arrhythmias
+### viii\)  Pharmacological agents used to treat arrhythmias
 
-ix\)  International guidelines for the management of arrhythmias
+### ix\)  International guidelines for the management of arrhythmias
 
-### l\) Implantable cardiac devices \(ICDs\)
+## l\) Implantable cardiac devices \(ICDs\)
 
-i\)  Implantable pacemakers
+### i\)  Implantable pacemakers
 
-ii\)  Implantable defibrillators
+### ii\)  Implantable defibrillators
 
-iii\)  Complications of ICDs
+### iii\)  Complications of ICDs
 
-### m\)  External and internal emergent cardiac pacing
+## m\)  External and internal emergent cardiac pacing
 
-### n\)  Disorders of the peripheral vasculature
+## n\)  Disorders of the peripheral vasculature
 
-i\)  Deep venous thrombosis
+### i\)  Deep venous thrombosis
 
-ii\)  Pulmonary embolism
+### ii\)  Pulmonary embolism
 
-iii\)  Mesenteric ischaemia
+### iii\)  Mesenteric ischaemia
 
-### o\)  Cardiac transplantation
+## o\)  Cardiac transplantation
 
-### p\)  Endocarditis
+## p\)  Endocarditis
 
-### q\)  Tumours
+## q\)  Tumours
 
-### r\)  Congential heart disease
+## r\)  Congential heart disease
 
-i\) Cyanotic heart disease
+### i\) Cyanotic heart disease
 
-### s\) Rheumatic fever
+## s\) Rheumatic fever
 

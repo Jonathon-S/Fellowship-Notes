@@ -1,62 +1,62 @@
 # 3.2 Respiratory
 
-### a\)  Clinical examination of the respiratory system
+## a\)  Clinical examination of the respiratory system
 
-### b\)  Interpretation of symptoms and clinical signs of the signs of the respiratory system
+## b\)  Interpretation of symptoms and clinical signs of the signs of the respiratory system
 
-### c\)  Respiratory failure
+## c\)  Respiratory failure
 
-### d\)  Upper airway obstruction
+## d\)  Upper airway obstruction
 
-### e\)  Infectious diseases
+## e\)  Infectious diseases
 
-i\)  Croup
+### i\)  Croup
 
-ii\)  Bronchitis
+### ii\)  Bronchitis
 
-iii\)  Pneumonia
+### iii\)  Pneumonia
 
-iv\)  Empyema
+### iv\)  Empyema
 
-### f\)  Aspiration
+## f\)  Aspiration
 
-### g\)  Acute lung injury/respiratory distress syndrome
+## g\)  Acute lung injury/respiratory distress syndrome
 
-### h\)  Asthma
+## h\)  Asthma
 
-### i\)  Pneumothorax
+## i\)  Pneumothorax
 
-### j\)  Intercostal catheter insertion
+## j\)  Intercostal catheter insertion
 
-### k\)  Pneumomediastinum
+## k\)  Pneumomediastinum
 
-### l\)  Chronic obstructive pulmonary disease
+## l\)  Chronic obstructive pulmonary disease
 
-### m\)  Pleural effusions
+## m\)  Pleural effusions
 
-### n\)  Needle thoracocentesis
+## n\)  Needle thoracocentesis
 
-### o\)  Haemoptysis
+## o\)  Haemoptysis
 
-### p\)  Cavitating lung lesions
+## p\)  Cavitating lung lesions
 
-### q\)  Isolated “coin” lesions on chest x-ray
+## q\)  Isolated “coin” lesions on chest x-ray
 
-### r\)  Disorders of the chest wall
+## r\)  Disorders of the chest wall
 
-### s\)  Disorders of the mediastinum
+## s\)  Disorders of the mediastinum
 
-### t\)  The respiratory effects of obesity
+## t\)  The respiratory effects of obesity
 
-### u\)  Sleep apnoea
+## u\)  Sleep apnoea
 
-### v\)  Lung transplants
+## v\)  Lung transplants
 
-### w\)  Neoplastic disorders
+## w\)  Neoplastic disorders
 
-### x\)  Congenital/neonatal
+## x\)  Congenital/neonatal
 
-i\)  Bronchopulmonary dysplasia
+### i\)  Bronchopulmonary dysplasia
 
-ii\)  Cystic fibrosis
+### ii\)  Cystic fibrosis
 
