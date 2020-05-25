@@ -128,6 +128,10 @@ Failed airway if intubation unsuccessful \(more than 3 attempts by experienced o
 
 If successful, post intubation management. 
 
+A forced to act imperative permits RSI, even in a highly diffi- cult airway situation in which the operator is not confident of the success of laryngoscopy or of sustaining oxygenation.
+
+RSI is the cornerstone of modern emergency airway management and is defined as the nearly simultaneous administration of a potent sedative \(induction\) agent and NMBA, usually succinyl- choline or rocuronium, for the purpose of tracheal intubation. This approach provides optimal intubating conditions and has long been thought to minimize the risk of aspiration of gastric contents. A systematic review of the literature in 2007 failed to prove that RSI results in a lower incidence of aspiration than other techniques, but the authors correctly noted that virtually no studies have ever been designed to measure this precise endpoint.
+
 ### e\)  Alternative/different airway techniques
 
            i\)  laryngeal mask  
@@ -140,6 +144,8 @@ Although early ED-based observational registries reported cricothyrotomy rates o
 The combination of failure of intubation, BMV, and oxygenation in elective anesthesia practice is estimated to be exceedingly rare, roughly 1 in 30,000 elective anesthesia patients. These numbers cannot be extrapolated to populations of ED patients who are acutely ill or injured and for whom intubation is urgent and unavoidable.
 
 SMART Mnemonic for Evaluation of Difficult Cricothyrotomy Surgery Mass \(abscess, hematoma\) Access/anatomy problems \(obesity, edema\) Radiation Tumor
+
+If adequate oxygenation cannot be maintained with rescue BMV, the rescue technique of first resort is cricothyrotomy. If an alternative device \(ie, an EGD such as an LMA or Combitube\) is readily available, however, and the operator judges it to be an appropriate device for the patient’s anatomy, single attempt can be made to use it simultaneously with preparations for immediate cricothyrotomy as long as initiation of cricothyrotomy is not delayed.
 
 ### g\)  Tracheostomy
 
