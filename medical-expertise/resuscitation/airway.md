@@ -186,10 +186,115 @@ Oral Intubation Without Pharmacologic Agents The arrested or near death patient 
 
 This does not apply to patients who are unconscious from neurologic catastrophe or trauma and those who have overdosed or have other medical causes of coma who warrant an induction agent and are intubated with standard RSI procedures \(see earlier\).
 
+
+
+Induction in special circumstances
+
+
+
+Status Asthmaticus RSI is the recommended technique for intubation of a patient in status asthmaticus. Difficult airway considerations are complex in an asthmatic patient because of impending respiratory arrest and the patient’s inability to tolerate attempts at awake intubation.
+
+Ventilation with a BMV or EGD may be difficult because of high airway resistance, and the technique should be optimized with the use of a low tidal volume and respiratory rate, with a high inspiratory flow rate. Reducing the respiratory rate to allow for adequate exhalation, even at the expense of retaining CO2, is recommended to prevent the development of auto-PEEP, known as breath stacking, which can compromise ventilation and cause barotrauma.
+
+High-dose, inhaled β-agonists, such as alb- uterol, provide maximal protection against reactive broncho- spasm during intubation and are indicated for asthmatics with or without active bronchospasm. Ketamine has bronchodilatory properties and may mitigate bronchospasm in patients who are not intubated and in patients who are already intubated and are not improving with mechanical ventilation. Although studies to date have been limited, ketamine is also a reasonable induction agent for the emergency intubation of patients with status asth- maticus
+
+Hemodynamic Consequences of Intubation Laryngoscopy and intubation are potent stimuli for the reflex release of catecholamines
+
+reflex sympathetic response to laryngoscopy \(RSRL\).
+
+produces a modest increase in blood pressure and heart rate and is of little or no consequence in otherwise healthy patients. The RSRL is of potential clinical significance in two settings, acute elevation of ICP and certain cardiovascular diseases \(eg, intracerebral hemorrhage, subarach- noid hemorrhage, aortic dissection or aneurysm, ischemic heart disease\). In these settings, the reflexive release of catecholamines, increased myocardial oxygen demand, and attendant rise in mean arterial blood pressure and heart rate may produce deleterious effects. The synthetic opioids \(eg, fentanyl\) and β-adrenergic blocking agents \(eg, esmolol\) are capable of blunting the RSRL and stabilizing heart rate and blood pressure during intubation. In patients at risk from acute blood pressure elevation, adminis- tration of fentanyl \(3 μg/kg\) during the pretreatment phase of RSI attenuates the heart rate and blood pressure increase. The full sympatholytic dose of fentanyl is much higher, but limiting the dose minimizes the likelihood of precipitating or worsening hypoventilation. Because fentanyl reduces sympathetic tone, it should not be given to patients with hemodynamic compromise \(eg, bleeding, volume depletion, sepsis\). The administration of 3 μg/kg is safer than larger doses and can be supplemented with an additional 3 μg/kg immediately after intubation if greater sym- pathetic blockade is desired or hypertension and tachycardia persist. Fentanyl should be given over 60 seconds to prevent hypoventilation or apnea.
+
+Elevated Intracranial Pressure When the ICP is elevated as a result of head injury or acute intra- cranial catastrophe, there are two considerations—maintaining CPP \(by avoiding excessive hypotension\) and minimizing supra- normal surges in the mean arterial blood pressure \(MAP\), which can increase ICP. Normally, cerebrovascular autoregulation main- tains a constant CBF over a wide range of systemic blood pres- sures, but this action may be lost in conditions that elevate ICP. Maintenance of the systemic MAP at 100 mm Hg or higher sup- ports CPP and reduces the likelihood of secondary injury.
+
+In patients with suspected or docu- mented elevation of ICP, control of RSRL is desirable to avoid further elevation of ICP. Fentanyl \(3 μg/kg\) given as a pretreat- ment drug is the best choice for this purpose in the emergency setting.
+
+Hypotension and Shock In critically ill and injured patients, induction agents have the potential to exaggerate preexisting hypotension and, in some cases, precipitate circulatory collapse. Peri-intubation cardiac arrest, typically pulseless electrical activity \(PEA\), complicates up to 4% of emergency RSI's.
+
+In patients with profound shock, all induction agents have the potential to exacerbate hypotension. Shock-sensitive RSI hinges on three primary management principles—volume resuscitation prior to induction \(if time permits, isotonic fluid boluses or packed red blood cells \(PRBCs\)\), reduced dose induction agent administration, and pretreatment with peri-intubation pressor agents
+
+ketamine only, and the dose should be reduced by 50%
+
+Potential Cervical Spine Injury
+
+Historically, most patients with suspected blunt cervical spine injury were intubated orally by direct laryngoscopy with in-line cervical spine immobilization, whether done as an awake procedure or with neuromuscular blockade. However, with this approach, glottic views can be inadequate, and excessive lifting force often is required. Patients with known cervical spine frac- tures are optimally managed with a flexible bronchoscope to minimize cervical spine motion; however, in the emergency setting, a videolaryngoscope should be used and, if not available, a direct laryngoscope also can be used. A videolaryngoscope pro- vides superior laryngeal views without excessive lifting force or cervical spine movement and has higher intubation success rates when compared with conventional direct laryngoscopy.
+
+In the absence of a coexistent blunt traumatic mechanism or a neurologic examination indicating spinal cord injury, cervical spine immobilization for intubation of patients with penetrating head and neck trauma rarely is indicated. A large retrospective review of more than 45,000 trauma patients with penetrating injuries has found that those in whom prehospital cervical collars were applied were two to three times more likely to die. \[36\]
+
+
+
+AIRWAY DEVICES AND TECHNIQUES
+
+The inherent limitations of DL make glottic visualization less likely when compared to video instruments.
+
+Although DL remains an acceptable technique for tracheal intubation, there is mounting evidence of the clear supe- riority of modern video devices, and DL increasingly is relegated to the role of a standby device. \[3\]
+
+Videolaryn- goscopes can be separated into two large groups based on shape— those that use traditional laryngoscope geometry complemented by a video viewing device \(which also can be used as direct laryn- goscopes\), and those with specially curved or angulated blades, designed specifically for use in a video system and not suitable for DL.
+
+videolaryngoscopes provide superior glottic views and greater first-pass success when compared with direct laryngoscopes, particularly when the airway is difficult or when a nonexpert operator is performing the intubation.
+
+6,7,37,38
+
+For routine intubation of nondifficult airways by expert intuba- tors, success rates with direct laryngoscopy often can match those obtained with a videolaryngoscope. \[7\] videolaryngoscopy is the first-choice modality for emergency intubations.
+
+The GlideScope videolaryngoscope system \(GVL; Verathon, Seattle\) uses a modified Macintosh blade with a straightened, angulated, and elongated tip enclosing a proximally placed camera to provide a wide-angle view of the glottis and surrounding anatomy,
+
+The placement of the camera distally along the blade to create a viewing field essentially negates the obstructive potential of the tongue, so GlideScope laryngoscopy and most other hyper- angulated videolaryngoscopy is performed with the blade intro- duced in the midline of the mouth and advanced around the tongue, with very little lifting. A proprietary rigid, preformed stylet is available for use with the GlideScope, or a malleable stylet can be shaped to match the exaggerated curve of the GlideScope blade. T
+
+Traditional predictors of difficult direct laryngos-copy likely will not apply to videolaryngoscopy because most are based on limitations of creating a direct line of sight, which is not part of videolaryngoscopy. \[43\]
+
+The C-MAC videolaryngo- scope The traditionally shaped C-MAC blade can be used as a direct laryngoscope by a trainee while a supervisor observes the video output, providing an excellent tool for teaching DL.
+
+Compared to DL the C-MAC provides better visualization of the glottic inlet, higher rates of first-pass success,
+
+Overall, videolaryngoscopy offers the promise of transforming laryngoscopy and has the potential to render DL obsolete.
+
+Fiberoptic and Video Intubating Stylets Several semirigid fiberoptic and video intubating stylets also are available.
+
+The ETT is placed over a semirigid stylet, consisting of a metal sheath with a distally placed video image acquisition system, then advanced through the mouth and over the tongue in the midline and into the trachea under fiberoptic or video visualization
+
+Flexible Intubating Scopes After appropriate patient preparation, the endoscope is passed through the vocal cords under continuous visualization, serving as an introducer for an ETT, which is then placed through the glottis. Flexible endoscopic examination also is used for airway assessment to determine whether intubation is needed, such as for patients with smoke inhalation or supraglot- titis. Intubation of morbidly obese patients, those with distorted airway anatomy \(eg, penetrating or blunt anterior neck injury\), or those with a fixed cervical spine deformity can be achieved with the flexible endoscope with topical anesthesia and judicious seda- tion, thus preserving the patient’s ability to breathe until intuba- tion has been achieved.
+
+There is a significant learning curve for flexible endoscopic intubation, and proficiency with this device requires training and practice.
+
+Flexible bronchoscope intubations are the method of choice for most patients with upper airway obstructions.
+
+
+
+First pass sucess in the ED - This latest multicenter report has revealed that first-attempt success \(FPS\) was 83%. However, over the course of data collection, this significantly increased from 80% in the first 3 years to 86% during the last 3 years.
+
 ## e\)  Alternative/different airway techniques
 
-           i\)  laryngeal mask  
-           ii\) other
+### i\)  laryngeal mask
+
+LMAs sit above the glottis,
+
+all extraglottic devices can be safely left in place for 4 hours without mucosal pressure damage.
+
+Laryngeal Mask Airways. LMAs collectively include a number of commercially available ovoid, silicone mask devices designed to seal above the glottis and permit ventilation through a central channel with a standard bag
+
+Original LMA The mask is inserted blindly into the pharynx and then inflated In elective anesthesia, the LMA has an extremely high insertion success rate and low complication rate, including a low incidence of tracheal aspiration
+
+The LMA may be a viable alterna- tive to endotracheal intubation for in-hospital or out-of-hospital treatment of cardiac arrest, particularly when responders are inex- perienced airway managers. At a minimum, the device may serve a temporizing role equal or superior to BMV until definitive airway management can be achieved.
+
+The LMA Supreme \(Teleflex Inc., Morrisville, NC\) is a more robust LMA with a rigid angled tube, similar to an ILMA; it offers an orogastric tube channel and higher seal pressures than the standard LMA. This likely is the best version for general ED use.
+
+A noninflatable LMA, the i-gel \(Intersurgical, Berkshire, England\), has a viscous gel cuff and does not require inflation \(Fig. 1.20\). It is available in a variety of sizes for adults and pedi- atric patients. The device is placed blindly, and insertion depths are marked on the side of the device. It has an integrated bite block and channel for passage of an orogastric tube igh insertion success rates and shorter insertion times when compared with the LMA or laryngeal tube airway
+
+The ILMA is designed to facilitate intubation through the mask after correct placement. It differs from the LMA in two main ways. First, the mask is attached to a rigid, stainless steel ventilation tube that is curved almost to a right angle, and the mask incorporates an epiglottic elevator at its distal end. The ILMA has a special ETT and stabilizer rod to remove the mask over the ETT
+
+When the ILMA is placed, intubation can be performed blindly or guided by a lighted stylet or fiberoptic scope. The ILMA comes only in sizes 3, 4, and 5 and so is not suitable for use in patients weighing less than about 30 kg
+
+Intubation can be achieved through the standard LMA, but the success rate is significantly less than with the ILMA
+
+In the can’t intubate, can’t ventilate situation, cricothyrotomy is indicated, but an ILMA may be placed rapidly in an attempt to achieve ventilation \(converting the situa- tion to can’t intubate, can ventilate\), as long as this is done in parallel with preparations for cricothyrotomy and does not delay initiation of a surgical airway.
+
+### ii\) other
+
+Other Extraglottic Devices. In addition to LMAs, which sit above the glottis, there are several other types of EGDs. These are inserted blindly posterior to and beyond the laryngeal inlet to provide oxygenation and ventilation through side ports while inflatable balloons occlude the pharynx above and the esophageal inlet below. Because of their positioning behind the larynx, these often are called retroglottic devices. The prototype for these devices is the esophagotracheal Combitube. The Combitube is a plastic double-lumen tube with one lumen functioning as an airway after esophageal insertion and the other lumen functioning as a tracheal airway. The tube is placed blindly into the esophagus, and proximal and distal balloons are inflated sequentially through different ports. The balloons prevent escape of ventilatory gases upward through the pharynx or downward through the esopha- gus. The tube is placed into the esophagus, as designed, almost 100% of the time, but both lumens are patent, so ventilation is still possible if the tube has been placed inadvertently into the trachea.
+
+The King laryngeal tube airway \(King LT; King Systems\) has a single port through which distal and proximal low-pressure bal- loons are inflated as a single step \(Fig. 1.22\). The distal balloon, when seated correctly, obstructs the cervical esophagus, and the larger proximal balloon obstructs the hypopharynx, preventing regurgitation of air.
+
+All retroglottic devices are primarily a substitute for endotracheal intubation for non–ETT-trained personnel, but are also used by advanced airway managers as a way to oxygenate and ventilate patients during crash and failed airway scenarios. These devices should be consid- ered temporary measures, do not protect against aspiration, and should be exchanged for a definitive airway as soon as possible.
 
 ## f\)  Needle/surgical cricothyroidotomy
 
@@ -200,6 +305,28 @@ The combination of failure of intubation, BMV, and oxygenation in elective anest
 SMART Mnemonic for Evaluation of Difficult Cricothyrotomy Surgery Mass \(abscess, hematoma\) Access/anatomy problems \(obesity, edema\) Radiation Tumor
 
 If adequate oxygenation cannot be maintained with rescue BMV, the rescue technique of first resort is cricothyrotomy. If an alternative device \(ie, an EGD such as an LMA or Combitube\) is readily available, however, and the operator judges it to be an appropriate device for the patient’s anatomy, single attempt can be made to use it simultaneously with preparations for immediate cricothyrotomy as long as initiation of cricothyrotomy is not delayed.
+
+
+
+Needle Cricothyrotomy With Transtracheal Jet Ventilation 
+
+involves the insertion of a large needle \(ideally, a large catheter designed for this purpose\) through the cricothyroid membrane into the airway for transtracheal ventila- tion, may have a limited role in pediatric airway management \(see Chapter 161\). However, it is rarely, if ever, the right choice for an adult airway emergency
+
+Cricothyrotomy an opening in the cricothyroid membrane through which a cannula, usually a cuffed tracheos- tomy tube, is inserted to permit ventilation. The techniques and variations of is have been described elsewhere \[53\]
+
+surgical airway management is required, cricothyrotomy is the procedure of choice in the emergency setting, where it is faster, more straightforward, and more likely to be successful than tracheotomy.
+
+Cricothyrotomy is indicated when oral or nasal intubation is impossible or fails and when BMV or EGD cannot maintain ade- quate oxygen saturation \(the can’t intubate, can’t ventilate situa- tion\).
+
+ED based surveillance suggest the rate of salvage cricothyrotomy has dropped to approximately 0.3%
+
+Cricothyrotomy is relatively contraindicated by distorted neck anatomy, preexisting infection in the neck, and coagulopathy; these contraindications are relative, however, and establishment of the airway takes precedence over all other con- siderations.
+
+The procedure should be avoided in infants and young children, in whom anatomic limitations make it exceed- ingly difficult. Studies have suggested that approximately five practice cricothyrotomies on a simulator or animal model are sufficient to achieve at least baseline capability with the procedure, although training intervals for skill maintenance have not been well defined.
+
+Percutaneous cricothyrotomy with the Seldinger technique appears comparable to formal open cri- cothyrotomy in terms of ease of learning and success rates.
+
+Patients with clear landmarks are the best candidates for this procedure because patient obesity or altered anatomy may lead to paratra- cheal tube placement. In patients with indistinct landmarks or for novice operators, standard open cricothyrotomy may be more successful. Bougie-assisted cricothyrotomy, during which a bougie is placed through the cricoid incision and used as a guidewire for ETT placement, may also improve surgical airway success for inexperienced practitioners.
 
 ## g\)  Tracheostomy
 
