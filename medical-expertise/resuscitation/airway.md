@@ -2,7 +2,7 @@
 
 ## a\)  Basic airway maintenance techniques
 
-If a patient is unable to maintain a patent airway, the airway should be established by using airway maneuvers such as repositioning, chin lift, jaw thrust, or insertion of an oral or nasal **airway**.
+If a patient is unable to maintain a patent airway, the airway should be established by using airway maneuvers such as repositioning, chin lift, jaw thrust, or insertion of an oral or nasal airway.
 
 ## b\)  Oxygen delivery systems
 
