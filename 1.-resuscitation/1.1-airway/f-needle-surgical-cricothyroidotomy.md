@@ -1,2 +1,0 @@
-# f\) Needle/surgical cricothyroidotomy
-
