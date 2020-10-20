@@ -1,4 +1,4 @@
-# 1. RESUSCITATION
+# 1. Resusitation
 
 ## 1.1 Airway
 
