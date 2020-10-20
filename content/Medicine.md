@@ -1,9 +1,5 @@
 #### 3. MEDICINE
 
-----
-
-###Contents
-
 3.1 Cardiovascular
 
 3.2 Respiratory
@@ -33,42 +29,3 @@
 3.14 Acid Base Disorders
 
 3.15 Nonates and Infants
-
-----
-
-###Topics
-
-3.1 Cardiovascular 
-
-a) Clinical examination of the cardiovascular system 
-b) Interpretation of symptoms and clinical signs of the cardiovascular system 
-c) Acute coronary syndromes (ACS)
-i) Approach to the patient with chest pain
-ii) Prehospital management 
-iii) Low-risk chest pain 
-iv) Stable angina 
-v) Unstable angina DIS
-vi) Myocardial infarction DIS
-vii) Right ventricular myocardial infarction DIS
-viii) Thrombolysis in myocardial infarction M
-ix) Left ventricular failure and cardiogenic shock in the setting of
-myocardial infarction DIS
-x) Interventional cardiology in acute coronary syndromes M/P
-xi) Pharmacological agents used in acute coronary syndromes D
-xii) Interpreting the ECG in the setting of acute coronary syndromes I
-xiii) ST elevation in the absence of myocardial infarction I
-xiv) An understanding of the major trials in acute coronary syndromes T
-xv) Current research in ACS T
-xvi) Chest pain pathways M/S
-xvii) Chest pain units M/S
-d) Syncope DIS
-i) Differential diagnosis
-ii) Identification of at-risk groups
-iii) Management and disposition
-e) Congestive cardiac failure DIS
-f) Valvular disorders
-i) Aortic DIS
-ii) Mitral DIS
-iii) Tricuspid DIS
-iv) Pulmonary DIS
-----
