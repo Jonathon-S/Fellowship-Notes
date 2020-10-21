@@ -3,8 +3,6 @@ Summary notes for the ACEM Fellowship exam.
 
 Mapped to the sylabus. 
 
-Contact me by emailing Jon at FellowshipNotes dot org
-
 ----
 
 ### Medical Expertise
